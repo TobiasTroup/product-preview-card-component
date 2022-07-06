@@ -1,0 +1,9 @@
+body {
+    background-color: hsl(30, 38%, 92%);
+}
+
+.main-card {
+    box-sizing: border-box;
+    float: left;
+    border: solid snow 3px;
+}
