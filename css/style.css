@@ -1,9 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500700;&display=swap');
+
 body {
     background-color: hsl(30, 38%, 92%);
 }
 
-.main-card {
-    box-sizing: border-box;
-    float: left;
-    border: solid snow 3px;
+.card-image-width {
+    max-width: 540px;
+}
+
+.card-margin-top {
+    margin-top: 15%;
+}
+
+img {
+    width: 270px;
+    height: 410px;
+}
+
+.card-category {
+    color: hsl(228, 12%, 48%);
+    font-family: 'Montserrat', sans-serif;
 }
