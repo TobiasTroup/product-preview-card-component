@@ -41,3 +41,19 @@ p {
     font-family: 'Fraunces', serif;
     font-size: 32px;
 }
+
+.button-img {
+    width: 16px;
+    height: 15px;
+}
+
+.button-text {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+@media(max-width: 375px) {
+
+}
