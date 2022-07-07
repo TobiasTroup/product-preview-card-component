@@ -5,23 +5,29 @@ body {
     background-color: hsl(30, 38%, 92%);
 }
 
-.card-image-width {
-    max-width: 540px;
-}
-
-.card-margin-top {
-    margin-top: 15%;
-}
 
 img {
     width: 270px;
     height: 410px;
 }
 
+p {
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+    color: hsl(228, 12%, 48%);
+}
+
+.card-image-width {
+    max-width: 580px;
+}
+
+.card-margin-top {
+    margin-top: 15%;
+}
+
 .card-category {
     color: hsl(228, 12%, 48%);
     font-family: 'Montserrat', sans-serif;
-    font-size: 14px;
     letter-spacing: 0.2em;
 }
 
