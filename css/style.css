@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500700;&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@700&display=swap');
 
 body {
     background-color: hsl(30, 38%, 92%);
@@ -20,4 +21,10 @@ img {
 .card-category {
     color: hsl(228, 12%, 48%);
     font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    letter-spacing: 0.2em;
+}
+
+.card-title {
+    font-family: 'Fraunces', serif;
 }
